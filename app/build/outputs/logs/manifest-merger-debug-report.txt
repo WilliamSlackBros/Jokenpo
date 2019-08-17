@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /root/.gradle/caches/transforms-2/files-2.1/ec7f3b388d0f983d1803001783b71db0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /root/.gradle/caches/transforms-2/files-2.1/5c5d205936a058ce488eb524132cd9f2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/c057b4d58eccca362ca491611290d4fd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/6f362a55a9a5b6fee4a0674a9553286d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/5064d7ebd599848a825d8ca74ba2792c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/898d5888b26331ee0cf54ec692be5b50/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /root/.gradle/caches/transforms-2/files-2.1/376ac1e84551254510a282cfaabcaef7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/6ab7f0cb174af9b9a170d94b54f88c23/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/5f3e42c4cc1d0863d005ae306dcb6d62/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/34f448feb55f9270915410942e1fa76d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/35fe2af1974bf20d4bacc33136d90058/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/89bdd6fe845d2c52325d02a3d47af240/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/2eb4da45368408fe5190bdd68561de23/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/9e0f7b003d9e18270c08043ca0debbef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/2579f40c4763b3aa0e2c124f1f5bd63d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /root/.gradle/caches/transforms-2/files-2.1/5ee3b083a442218b8a717ccec7a32797/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/f8559c0f07daba2e2e3e0fecdf24d2f3/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/db337e6b6699e5c708f5ef0db46dbd0e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/cb70082b18eae816f85b449e5d858f90/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/2f34e4205f35304645bfdc39623d34ef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/41e865ef31ae2295ab660902bb769054/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/215d08f8ec89a82be0e93fdc33d7f6ba/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/c862567077627785dcb28129f360a2f3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/4376280db2a010227d43628cfe56e162/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/a4926c2a6aa9e56e00b97946d83ea107/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/00b13a6af7d304eceaa23613161e53ec/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/389d0bb20267d8a77a9bafbf9c667edc/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml
+		ADDED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml
+		ADDED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /root/.gradle/caches/transforms-2/files-2.1/5c5d205936a058ce488eb524132cd9f2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /root/.gradle/caches/transforms-2/files-2.1/5c5d205936a058ce488eb524132cd9f2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /root/.gradle/caches/transforms-2/files-2.1/5ee3b083a442218b8a717ccec7a32797/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /root/.gradle/caches/transforms-2/files-2.1/5ee3b083a442218b8a717ccec7a32797/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/f8559c0f07daba2e2e3e0fecdf24d2f3/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/f8559c0f07daba2e2e3e0fecdf24d2f3/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /root/.gradle/caches/transforms-2/files-2.1/5ee3b083a442218b8a717ccec7a32797/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.estudos.jokenpo.MainActivity
+ADDED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml
+INJECTED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /root/.gradle/caches/transforms-2/files-2.1/ec7f3b388d0f983d1803001783b71db0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /root/.gradle/caches/transforms-2/files-2.1/ec7f3b388d0f983d1803001783b71db0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /root/.gradle/caches/transforms-2/files-2.1/5c5d205936a058ce488eb524132cd9f2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /root/.gradle/caches/transforms-2/files-2.1/5c5d205936a058ce488eb524132cd9f2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/c057b4d58eccca362ca491611290d4fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/c057b4d58eccca362ca491611290d4fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/6f362a55a9a5b6fee4a0674a9553286d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/6f362a55a9a5b6fee4a0674a9553286d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/5064d7ebd599848a825d8ca74ba2792c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/5064d7ebd599848a825d8ca74ba2792c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/898d5888b26331ee0cf54ec692be5b50/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/898d5888b26331ee0cf54ec692be5b50/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /root/.gradle/caches/transforms-2/files-2.1/376ac1e84551254510a282cfaabcaef7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /root/.gradle/caches/transforms-2/files-2.1/376ac1e84551254510a282cfaabcaef7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/6ab7f0cb174af9b9a170d94b54f88c23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/6ab7f0cb174af9b9a170d94b54f88c23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/5f3e42c4cc1d0863d005ae306dcb6d62/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/5f3e42c4cc1d0863d005ae306dcb6d62/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/34f448feb55f9270915410942e1fa76d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/34f448feb55f9270915410942e1fa76d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/35fe2af1974bf20d4bacc33136d90058/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/35fe2af1974bf20d4bacc33136d90058/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/89bdd6fe845d2c52325d02a3d47af240/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/89bdd6fe845d2c52325d02a3d47af240/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/2eb4da45368408fe5190bdd68561de23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/2eb4da45368408fe5190bdd68561de23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/9e0f7b003d9e18270c08043ca0debbef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/9e0f7b003d9e18270c08043ca0debbef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/2579f40c4763b3aa0e2c124f1f5bd63d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/2579f40c4763b3aa0e2c124f1f5bd63d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /root/.gradle/caches/transforms-2/files-2.1/5ee3b083a442218b8a717ccec7a32797/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /root/.gradle/caches/transforms-2/files-2.1/5ee3b083a442218b8a717ccec7a32797/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/f8559c0f07daba2e2e3e0fecdf24d2f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/f8559c0f07daba2e2e3e0fecdf24d2f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/db337e6b6699e5c708f5ef0db46dbd0e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/db337e6b6699e5c708f5ef0db46dbd0e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/cb70082b18eae816f85b449e5d858f90/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/cb70082b18eae816f85b449e5d858f90/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/2f34e4205f35304645bfdc39623d34ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/2f34e4205f35304645bfdc39623d34ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/41e865ef31ae2295ab660902bb769054/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/41e865ef31ae2295ab660902bb769054/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/215d08f8ec89a82be0e93fdc33d7f6ba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/215d08f8ec89a82be0e93fdc33d7f6ba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/c862567077627785dcb28129f360a2f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/c862567077627785dcb28129f360a2f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/4376280db2a010227d43628cfe56e162/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/4376280db2a010227d43628cfe56e162/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/a4926c2a6aa9e56e00b97946d83ea107/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/a4926c2a6aa9e56e00b97946d83ea107/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/00b13a6af7d304eceaa23613161e53ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/00b13a6af7d304eceaa23613161e53ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/389d0bb20267d8a77a9bafbf9c667edc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/389d0bb20267d8a77a9bafbf9c667edc/AndroidManifest.xml:20:5-44
+INJECTED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml
+INJECTED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml
+		ADDED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml
+		ADDED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jango/ProjetosAndroid/jokenpo/app/src/main/AndroidManifest.xml

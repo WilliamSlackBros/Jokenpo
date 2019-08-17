@@ -1,0 +1,4 @@
+#Sat Aug 17 15:43:35 BRT 2019
+base.0=/home/jango/ProjetosAndroid/jokenpo/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
